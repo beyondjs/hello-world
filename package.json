@@ -1,0 +1,17 @@
+{
+  "name": "hello-world",
+  "version": "0.0.1",
+  "description": "hello world",
+  "main": "server.js",
+  "license": "MIT",
+  "repository": "github:beyondjs/hello-world",
+  "dependencies": {
+    "beyond": "github:socites/beyond"
+  },
+  "engines": {
+    "node": ">= 0.12.7"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}

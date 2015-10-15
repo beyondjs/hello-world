@@ -1,0 +1,15 @@
+{
+  "code": {
+    "html": {
+      "files": [
+        "click.html"
+      ]
+    },
+    "js": {
+      "files": [
+        "hello.js"
+      ]
+    }
+  },
+  "route": "/hello-world"
+}
