@@ -6,7 +6,7 @@
   "license": "MIT",
   "repository": "github:beyondjs/hello-world",
   "dependencies": {
-    "beyond": "github:socites/beyond"
+    "beyond": "0.0.22"
   },
   "engines": {
     "node": ">= 0.12.7"
